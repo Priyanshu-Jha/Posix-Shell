@@ -1,0 +1,36 @@
+history
+history
+history
+history
+history
+history
+
+history 20
+history 20
+history 20
+history 5
+history 32
+echo "Shubham" >> shubham.txt
+echo "Shubham" >> shubham.txt
+echo "Shubham" >> shubham.txt
+echo "Shubham" >> shubham.txt
+echo sgnkdfskg >> shubham.txt
+exit
+echo "sh   'sjj'   shhh"
+echo "SHubham" > out.txt
+echo "Shhhh" >> out.txt
+sort < out.txt > sorted.txt
+"shhh"
+cat sorted.txt | wc
+exit
+cat head.txt | head -5 | tail -5
+exit
+echo "shhh  " > sample.txt
+pwd
+cd -
+pwd
+cd -
+pwd
+cd -
+pwd
+pwd
