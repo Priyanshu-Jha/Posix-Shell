@@ -1,21 +1,17 @@
 Name: Priyanshu Jha
-Roll No.: 2024201062
 
-## README for POSIX Shell Implementation (Advanced Operating Systems - Assignment 2)
 
-Task Overview: The assignment involves building a custom POSIX shell in C/C++ that supports basic shell functionalities such as command execution, background processing, I/O redirection, and piping. The shell must handle both built-in and system commands, along with special commands like cd, echo, and pwd. Additional features include signal handling, process management, and command history.
+## README for POSIX Shell Implementation )
+
+Task Overview: The assignment involves building a custom POSIX shell in C/C++ that supports basic shell functionalities such as command executions. The shell must handle both built-in and system commands, along with special commands like cd, echo, and pwd. Additional features include history.
 
 ## Key Features:
 
 1. Shell Prompt: Displays in the format <username>@<system_name>:<current_directory>.
 2. Built-in Commands: Implements cd, echo, pwd, clear and exit without using execvp().
 3. ls Command: Supports flags -a and -l, including combinations of both.
-4. System Commands: Handles both background (&) and foreground processes.
-5. Pinfo: Is used to display information about processes and also tell if you provide pid.
-6. Search: Search for files, directories and files inside directories.
-7. I/O Redirection: Supports input/output redirection with <, >, and >>.
-8. pip: Allows piping between multiple commands.
-9. History: Stores up to 20 commands across sessions and supports history <num>.
+4. Search: Search for files, directories and files inside directories.
+5. History: Stores up to 20 commands across sessions and supports history <num>.
 
 
 ## Compilation: Use the provided Makefile to compile the shell:
